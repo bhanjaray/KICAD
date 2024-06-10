@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "espnow")(type "KiCad")(uri "C:/Users/Naresh Kumar Ray/OneDrive/Desktop/first/espnow.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32_module")(type "KiCad")(uri "C:/Users/Naresh Kumar Ray/OneDrive/Desktop/Robo_Soccer/ESP32_module.kicad_sym")(options "")(descr ""))
+  (lib (name "Buck_Boost_Converter")(type "KiCad")(uri "C:/Users/Naresh Kumar Ray/OneDrive/Desktop/Robo_Soccer/Buck_Boost_Converter.kicad_sym")(options "")(descr ""))
+)
